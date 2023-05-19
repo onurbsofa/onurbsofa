@@ -1,7 +1,9 @@
 <h1 align="center">Hola i'm  Bruno Fazio 👋 </h1>
 <h3 align="center">🚀 Software Developer | MERN Stack | Open Source ♥ | 🚀</h3>
+<div>
 <div align="right">
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+ </div> 
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
@@ -9,7 +11,7 @@
   - 💼 &nbsp; I’m currently working on Full Stack Development projects.
   - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
   - 👯 &nbsp; I’m looking to collaborate on side projects of indie dev community
-</div> 
+</div>
 </div>
 
 <h3> 💻 Languages and Tools </h3>
