@@ -1,6 +1,6 @@
 <h1 align="center">Hola i'm  Bruno Fazio 👋 </h1>
 <h3 align="center">🚀 Software Developer | MERN Stack | Open Source ♥ | 🚀</h3>
-<div display= "in-line">
+<div display="flex">
 <div align="right">
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
  </div> 
