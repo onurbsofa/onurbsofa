@@ -20,7 +20,7 @@
   <p>
 <hr>
 <p align="center">
-<a href="https://bofoweb.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/bruno-fazio-7576b3274/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="brufazio8@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://bofoweb.com/"><img alt="Website" src="https://img.shields.io/badge/Website-https://bofoweb.com/-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/bruno-fazio-7576b3274/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-bruno-fazio-7576b3274/-blue?style=flat-square&logo=linkedin"></a>
+<a href="brufazio8@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-brufazio8@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
