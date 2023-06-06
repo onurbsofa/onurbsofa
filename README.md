@@ -1,4 +1,4 @@
-<h1 align="center">Hola soy Bruno Fazio 👋 </h1>
+<h1 align="center">Hola, i'm Bruno Fazio 👋 </h1>
 <h3 align="center">🚀 WEB Developement | Open Source ♥ |GAMING!! 🚀</h3>
 <div>
 <div>
